@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "connectionstring do storageaccount",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "blobtriggerexemplofunc_STORAGE": "connectionstring do storageaccount"
+  }
+}
