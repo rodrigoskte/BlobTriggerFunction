@@ -1,0 +1,2 @@
+# BlobTriggerFunction
+BlobTriggerFunction
